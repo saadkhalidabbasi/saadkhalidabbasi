@@ -1,6 +1,6 @@
  # Hi there 👋Saad Khalid Abbasi
  <br>
-<img src='https://tse4.mm.bing.net/th?id=OIP.WJNN3oO2oYURyc8RxRSu8wHaDF&pid=Api&P=0&h=220'>
+<img src='https://github.com/saadkhalidabbasi/saadkhalidabbasi/blob/main/CoursesTeach%20(2).png?raw=true'>
  
 👋 Hello! My name is Saad Khalid Abbasi, and I am an enthusiastic and dedicated entry-level data scientist with a strong foundation in data analysis, statistical modeling, and machine learning. I recently graduated with a Bachelor in Computer Science from Virtual University of Pakistan, where I developed a passion for uncovering insights from data and solving complex problems.
 
